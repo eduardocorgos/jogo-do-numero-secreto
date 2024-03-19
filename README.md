@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>🎲 Jogo do número secreto 🎲</h1>
 <h2>💻 Sobre</h2>
 <p>Jogo no qual o usuário recebe dicas para adivinhar o nümero secreto gerado pseudo-aleatoriamente. (Exercício curso Alura).</p>
 <h2>🛸Tecnologias utilizadas</h2>
